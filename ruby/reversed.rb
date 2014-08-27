@@ -1,3 +1,5 @@
+# Take in a paramater that is a string and reverse the string
+
 def backwards(str)
   last_index = str.length - 1
   reversed = []
